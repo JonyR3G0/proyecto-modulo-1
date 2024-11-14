@@ -26,9 +26,11 @@
 
 - **Clona el proyecto** Puedes usar la terminal o descargar los archivos.
   **Procedimiento:**
-  > Usa el comando `git clone https://github.com/JonyR3G0/final-proyect-m1.git`
+  > Usa el comando `git clone https://github.com/JonyR3G0/proyecto-modulo-1`
   > **NOTA:** Tendrás que tener ya listo tu entorno de trabajo y estar en la carpeta donde quieres clonar el repo
 - **Agregar cambios o subir a tu repo**
   > Haz los cambios que requieras o simplemente subelo a tu repo, arriba puedes encontrar una descripcion de que vas a encontrar en el repo y para que es cada archivo
 - **Despliega la pagina**
   > En tu repo, accede al apartado `settings` y dirigete a **pages**, una vez ahi configura y despliega tu verson de la pagina.
+
+- [¡Visita mi pagina desplegada!](https://jonyr3g0.github.io/proyecto-modulo-1/)
