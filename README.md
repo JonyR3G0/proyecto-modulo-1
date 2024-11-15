@@ -9,12 +9,19 @@
 ## 🗃️ Tabla de Contenidos
 
 - [🎉 Introducción](#-introducción)
+- [📋 Características](#-Características)
 - [📂 Estructura del Proyecto](#-estructura-del-proyecto)
+- [📚 Como desplegar el proyecto](#-como-desplegar)
 - [📚 Como desplegar el proyecto](#-como-desplegar)
 
 ## 🎉 Introducción
 
 > _Aquí encontrarás **ejercicios, experimentos, y ejemplos de código HTML** que documentan mi viaje en el mundo de la programación. **Mi meta** es aprender al máximo en cada paso y llegar a ser uno de los 150 seleccionados para la fase 2._ 🚀
+
+## 📋 Características
+- Estructura semántica en HTML5
+- Imágenes y enlaces
+- Listas y formulario de contacto
 
 ## 📂 Estructura del Proyecto
 
@@ -33,4 +40,8 @@
 - **Despliega la pagina**
   > En tu repo, accede al apartado `settings` y dirigete a **pages**, una vez ahi configura y despliega tu verson de la pagina.
 
-- [¡Visita mi pagina desplegada!](https://jonyr3g0.github.io/proyecto-modulo-1/)
+- El sitio está disponible en [GitHub Pages](https://jonyr3g0.github.io/proyecto-modulo-1/)
+
+## Tecnologías
+- HTML5
+- Git y GitHub
