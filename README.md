@@ -9,10 +9,10 @@
 ## 🗃️ Tabla de Contenidos
 
 - [🎉 Introducción](#-introducción)
-- [📋 Características](#-Características)
+- [📋 Características](#-características)
 - [📂 Estructura del Proyecto](#-estructura-del-proyecto)
 - [📚 Como desplegar el proyecto](#-como-desplegar)
-- [📚 Como desplegar el proyecto](#-como-desplegar)
+- [🤖 Tecnologías](#-tecnologías)
 
 ## 🎉 Introducción
 
@@ -42,6 +42,6 @@
 
 - El sitio está disponible en [GitHub Pages](https://jonyr3g0.github.io/proyecto-modulo-1/)
 
-## Tecnologías
+## 🤖 Tecnologías
 - HTML5
 - Git y GitHub
